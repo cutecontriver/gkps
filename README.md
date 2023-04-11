@@ -2,7 +2,7 @@
 
 ## Process:
   =>Firstly designed the layout of website.
-  =>Collected the sources required for this.
+  + =>Collected the sources required for this.
   =>Coded the website
   =>Made it responsive for different viewport
   =>Hosted it on the domain
